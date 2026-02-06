@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Backend Teachnologies as well as exploring AIML <br>👯 I’m looking to collaborate on Nest JS<br>🌱 I’m currently learning NLP<br>💬 Ask me about MERN<br>⚡ Fun fact- Its secret :-)
+🔭 I’m currently working on Backend Technologies as well as exploring AIML <br>👯 I’m looking to collaborate on Nest JS<br>🌱 I’m currently learning NLP<br>💬 Ask me about MERN<br>⚡ Fun fact- Its secret :-)
 
 
 ## 🌐 Socials:
