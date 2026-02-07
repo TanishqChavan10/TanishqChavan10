@@ -21,7 +21,7 @@
 ---
 
 ## 👋 Hi, I'm <span style="color:#2EC4B6;font-weight:bold;">Tanishq Chavan</span>!  
-*Undergraduate @ IIITDM Jabalpur | Full-Stack Developer | Tech Explorer | Creative Coder | Problem Solver*
+*Undergraduate @ Vidyalankar Institute of Technology Mumbai | Full-Stack Developer | Tech Explorer | AI-Ml | Problem Solver*
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F729&width=460&lines=Full-Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Continuous+Learner;Coding+Dreamer;Community+Builder" alt="Typing SVG" />
@@ -166,8 +166,8 @@ public class TanishqProfile {
 ## 🤝 **Want to collaborate or just say hi?**
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME
-cd YOUR_GITHUB_USERNAME
+git clone https://github.com/TanishqChavan10
+cd TanishqChavan10
 ./connect_with_me.sh
 ```
 
