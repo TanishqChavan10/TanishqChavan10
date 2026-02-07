@@ -118,17 +118,7 @@ public class TanishqProfile {
   </a>
 </p>
 
-<p align="center">
-  <details>
-    <summary>✨ <strong>Open Source Highlights</strong></summary>
-    <ul>
-      <li>🔧 Contributed to full-stack and backend open source projects</li>
-      <li>👨‍🏫 Mentored juniors & hackathon teams</li>
-      <li>🏅 Hackathon winner & active community builder</li>
-      <li>🤝 Networking & collaborating worldwide</li>
-    </ul>
-  </details>
-</p>
+
 
 ---
 
