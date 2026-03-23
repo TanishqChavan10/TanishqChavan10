@@ -1,7 +1,6 @@
 # Welcome to **Tanishq's Tech Universe!** 
 
 
-<h2 align="center"><code>"404? That's just my creativity warming up."</code> 🔥</h2>
 
 ---
 
@@ -20,9 +19,7 @@
 ## 👋 Hi, I'm <span style="color:#2EC4B6;font-weight:bold;">Tanishq Chavan</span>!  
 *Undergraduate @ Vidyalankar Institute of Technology Mumbai | Full-Stack Developer | Tech Explorer | AI-Ml | Problem Solver*
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F729&width=460&lines=Full-Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Continuous+Learner;Coding+Dreamer;Community+Builder" alt="Typing SVG" />
-</p>
+
 
 ### 🧑🏻‍💻 **About Me**
 
@@ -106,8 +103,8 @@ public class TanishqProfile {
   ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 </details>
+ <details> 
   <summary>🚀 <strong>Tools & DevOps Arsenal</strong></summary>
-  
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -162,27 +159,4 @@ public class TanishqProfile {
 
 ---
 
-## 🤝 **Want to collaborate or just say hi?**
-
-```bash
-git clone https://github.com/TanishqChavan10
-cd TanishqChavan10
-./connect_with_me.sh
-```
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWQ5bWJ0aXJ2bW1iZ2R1b2JxZ3Z0bWJpZ2V0c3VwZ2VjZ3R2dG5xZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aTskHEUdgCQAXde/giphy.gif" alt="Thank You" width="200">
-</p>
-
----
-
-<p align="center">
-  <b>✨ Thanks for stopping by, keep exploring and keep coding! 🚀✨</b>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F7B32C&width=480&lines=Welcome+to+my+cosmos+of+code!;Open+Source+is+magic.;Let%27s+build+the+future+together." />
-</p>
 
