@@ -1,8 +1,5 @@
-# 🚀 Welcome to **Tanishq's Tech Universe!** 🌌
+# Welcome to **Tanishq's Tech Universe!** 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZxY3I4bmV2ZzV6b2V2cGZlN3JmeXJwZ2V2cWp0bGJhYjJ4eXgxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Yj2jQqj0pQwE/giphy.gif" alt="Welcome" width="480">
-</p>
 
 <h2 align="center"><code>"404? That's just my creativity warming up."</code> 🔥</h2>
 
